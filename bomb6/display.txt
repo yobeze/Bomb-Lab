@@ -1,0 +1,4 @@
+display $rsp
+display $rsi
+display $rdx
+display $rax
