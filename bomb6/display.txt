@@ -1,4 +1,6 @@
-display $rsp
-display $rsi
-display $rdx
 display $rax
+display $rbx
+display $rcx
+display $rdx
+display $rsi
+display $rdi

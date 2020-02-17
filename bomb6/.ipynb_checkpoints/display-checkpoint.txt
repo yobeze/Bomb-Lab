@@ -1,5 +1,6 @@
-display $rsp
-display $rsi
-display $rdx
 display $rax
-display/i 0x7ffff7a60536
+display $rbx
+display $rcx
+display $rdx
+display $rsi
+display $rdi
