@@ -4,3 +4,7 @@ display $rcx
 display $rdx
 display $rsi
 display $rdi
+display $rbp
+display $r12
+display $r13d
+display $r13

@@ -1,4 +1,3 @@
 
-break phase_5
 break phase_6
 break explode_bomb
